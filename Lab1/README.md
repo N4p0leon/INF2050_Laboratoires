@@ -1,9 +1,5 @@
 # INF2050 Laboratoire 1 : Utilisation de Git
-<<<<<<< HEAD
-## Étudiant : John Masson
-=======
 ## Étudiant : Masson Maxime
->>>>>>> 682d328511e08de73993a88d119bcf9507ec93b7
 ## Code Permanent : MASM06079507
 
 ## Au préalable
