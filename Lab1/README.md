@@ -1,4 +1,6 @@
 # INF2050 Laboratoire 1 : Utilisation de Git
+## Étudiant : Maxime Masson
+## Code Permanent : MASM06079507
 
 ## Au préalable
 Tout d'abord vérifiez votre installation de Git : [Installation de Git](GIT_installation.md)  
